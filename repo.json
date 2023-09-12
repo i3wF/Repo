@@ -1,0 +1,40 @@
+{
+    "RepositoryName": "3wF",
+    "RepositoryDescription": "By 3wF",
+    "RepositoryAuthor": "3wF",
+    "RepositoryIcon": "https://i3wf.github.io/Repo/assets/Icon.png",
+    "RepositoryWebsite": "https://i3wF.github.io",
+    "Default": {
+        "HeaderImage": "https://i3wf.github.io/Repo/assets/Banner.png",
+        "Author": {
+            "Label": "3wF",
+            "Links": [
+                {
+                    "Label": "Twitter",
+                    "Link1": "https://twitter.com/q_bx_",
+					"Labe2": "Instagram",
+                    "Link2": "https://instagram.com/b7z0"
+                }
+            ]
+        },
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+		{
+			"Name": "HD Mod",
+			"Description": "-_•!",
+			"Category": "Mods",
+			"Caption": "make hayday better with this tool! /nthis tool change everythings in hayday like a zooming in/out /n/nchanges: /n1- the zoom is unrestricted in all of /n *-the main farm /n the town /n the fish area /n2- the newspaper is colorful /n3- the trees & bushes if is alive it will be like a coffee bush else die it will be like a nectar bush ",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"Icon": "https://i3wf.github.io/Repo/Tweaks/HD%20Mod/Images/Icon.png",
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://i3wf.github.io/Repo/Tweaks/HD%20Mod/HD%20Mod.misaka"
+				}
+			],
+			"PackageID": "com.3wF.HDmod"
+		}
+	]
+}
